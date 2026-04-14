@@ -110,4 +110,4 @@ This repository contains **50+ Android applications** demonstrating:
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/android-lab.git
+https://github.com/ProgrammingWithNick/MyApplicationMCA_2.git
