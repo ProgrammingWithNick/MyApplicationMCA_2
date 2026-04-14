@@ -5,7 +5,7 @@
 ---
 
 ## 🛠 Tech Stack
-- 🧑‍💻 Language: Java / Kotlin  
+- 🧑‍💻 Language: Java  
 - 🛠 IDE: Android Studio  
 - 📦 SDK: Android SDK  
 - 🎨 UI: XML Layouts  
