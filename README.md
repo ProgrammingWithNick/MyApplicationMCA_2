@@ -1,6 +1,6 @@
 # 📱 Android Lab Practicals (MCA)
 
-> 🚀 A collection of Android Studio apps covering basic to advanced concepts for MCA students..
+> 🚀 A collection of Android Studio apps covering basic to advanced concepts for MCA students.
 
 ---
 
